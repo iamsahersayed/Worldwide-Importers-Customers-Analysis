@@ -46,14 +46,3 @@ Rather than only presenting final queries, this project documents the **full ana
 - Iterative debugging and query refinement
 - Business-focused interpretation of results
 
----
-
-## 📂 Repository Structure
-
-```text
-.
-├── README.md
-├── sql/
-│   └── wwi-customer-analysis.sql
-├── report/
-│   └── Worldwide Importers Assignment Report.docx
